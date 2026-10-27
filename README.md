@@ -1,2 +1,2 @@
-# F-python-assignments
+# Python-assignments
 This is my friend's python assignment...
