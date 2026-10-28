@@ -1,0 +1,10 @@
+print("Finding area of triangle")
+
+import math
+a = float(input("Enter the value of side a: "))
+b = float(input("Enter the value of side b: "))
+c = float(input("Enter the value of side c: "))
+
+s = (a + b + c) / 2
+area = math.sqrt(s * (s - a) * (s - b) * (s - c))
+print(area)
