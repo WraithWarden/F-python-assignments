@@ -1,0 +1,3 @@
+list1 = [10, 100, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10]
+total = max(list1)
+print(total)
